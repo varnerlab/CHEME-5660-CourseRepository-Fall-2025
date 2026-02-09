@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="566px" height="248px" viewBox="0 0 566 248" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Artboard</title>
+    <g id="Artboard" stroke="none" fill="none">
+        <rect id="Rectangle" stroke="#0368AC" stroke-width="1" fill="#0068AC" fill-rule="evenodd" x="247.5" y="15.5" width="150" height="61"></rect>
+        <text id="Agent" font-family="Helvetica" font-size="20" font-weight="normal" fill="#FFFFFF">
+            <tspan x="296.734375" y="53">Agent</tspan>
+        </text>
+        <rect id="Rectangle" stroke="#6EB43F" stroke-width="1" fill="#6EB43F" fill-rule="evenodd" x="247.5" y="171.5" width="150" height="61"></rect>
+        <text id="Environment" font-family="Helvetica" font-size="20" font-weight="normal" fill="#FFFFFF">
+            <tspan x="266.724609" y="209">Environment</tspan>
+        </text>
+        <path id="Line" d="M521.027344,44.890625 L521.027344,202.890625 L405.092,202.89 L413.767605,207.769049 L414.639181,208.259311 L413.658658,210.002462 L412.787083,209.512201 L400.787083,202.762201 L399.237615,201.890625 L400.787083,201.019049 L412.787083,194.269049 L413.658658,193.778788 L414.639181,195.521939 L413.767605,196.012201 L405.095,200.89 L519.027,200.89 L519.027,46.89 L397,46.890625 L397,44.890625 L521.027344,44.890625 Z" fill="#55565A" fill-rule="nonzero"></path>
+        <path id="Line" d="M248,50.5 L248,201.890625 L132.065,201.89 L140.740261,206.769049 L141.611837,207.259311 L140.631314,209.002462 L139.759739,208.512201 L127.759739,201.762201 L126.210271,200.890625 L127.759739,200.019049 L139.759739,193.269049 L140.631314,192.778788 L141.611837,194.521939 L140.740261,195.012201 L132.068,199.89 L246,199.89 L246,52.499 L124,52.5 L124,50.5 L248,50.5 Z" transform="translate(186, 126.1953) scale(-1, -1) translate(-186, -126.1953)" fill="#55565A" fill-rule="nonzero"></path>
+        <path id="Line" d="M248,37.5 L248,215.5 L54.906,215.5 L63.5784338,220.378424 L64.4500093,220.868686 L63.4694868,222.611837 L62.5979113,222.121576 L50.5979113,215.371576 L49.0484437,214.5 L50.5979113,213.628424 L62.5979113,206.878424 L63.4694868,206.388163 L64.4500093,208.131314 L63.5784338,208.621576 L54.903,213.5 L246,213.5 L246,39.5 L47,39.5 L47,37.5 L248,37.5 Z" transform="translate(147.5, 126.5) scale(-1, -1) translate(-147.5, -126.5)" fill="#55565A" fill-rule="nonzero"></path>
+        <text id="action-a" transform="translate(543.5, 121) rotate(-90) translate(-543.5, -121)" font-family="Helvetica" font-size="20" font-weight="normal" fill="#55565A">
+            <tspan x="508.951172" y="128">action a</tspan>
+        </text>
+        <text id="state-s-to-sʹ" transform="translate(24.5, 121) rotate(-90) translate(-24.5, -121)" font-family="Helvetica" font-size="20" font-weight="normal" fill="#55565A">
+            <tspan x="-25.0390625" y="128">state </tspan>
+            <tspan x="23.8769531" y="128" font-family="Helvetica-Oblique, Helvetica" font-style="italic">s</tspan>
+            <tspan x="33.8769531" y="128"> to </tspan>
+            <tspan x="61.6699219" y="128" font-family="Helvetica-Oblique, Helvetica" font-style="italic">sʹ</tspan>
+        </text>
+        <text id="reward-r" transform="translate(102, 119) rotate(-90) translate(-102, -119)" font-family="Helvetica" font-size="20" font-weight="normal" fill="#55565A">
+            <tspan x="65.6503906" y="126">reward r</tspan>
+        </text>
+    </g>
+</svg>
