@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="689px" height="260px" viewBox="0 0 689 260" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Artboard</title>
+    <g id="Artboard" stroke="none" fill="none">
+        <circle id="Oval" fill="#DDDDDD" fill-rule="evenodd" cx="58" cy="198" r="32"></circle>
+        <circle id="Oval" fill="#FFD931" fill-rule="evenodd" cx="146" cy="198" r="32"></circle>
+        <circle id="Oval" fill="#FFD931" fill-rule="evenodd" cx="234" cy="198" r="32"></circle>
+        <circle id="Oval" fill="#FFD931" fill-rule="evenodd" cx="322" cy="198" r="32"></circle>
+        <circle id="Oval" fill="#FFD931" fill-rule="evenodd" cx="532" cy="198" r="32"></circle>
+        <path id="Line" d="M604.375444,190.878481 L605.246611,191.369468 L617.240987,198.129457 L618.789728,199.002323 L617.239535,199.872608 L605.233919,206.612614 L604.361936,207.102149 L603.382865,205.358182 L604.254848,204.868647 L612.93,199.997 L604.7504,199.990633 L15.4991674,199.5 L14.4991677,199.499167 L14.500833,197.499168 L15.5008326,197.5 L604.752066,197.990634 L612.934,197.997 L604.264637,193.111802 L603.39347,192.620815 L604.375444,190.878481 Z" fill="#000000" fill-rule="nonzero"></path>
+        <circle id="Oval" stroke="#000000" stroke-width="1" fill="#FFFFFF" fill-rule="evenodd" cx="532" cy="199" r="6.5"></circle>
+        <circle id="Oval" stroke="#000000" stroke-width="1" fill="#FFFFFF" fill-rule="evenodd" cx="58" cy="199" r="6.5"></circle>
+        <circle id="Oval" stroke="#000000" stroke-width="1" fill="#FFFFFF" fill-rule="evenodd" cx="146" cy="199" r="6.5"></circle>
+        <circle id="Oval" stroke="#000000" stroke-width="1" fill="#FFFFFF" fill-rule="evenodd" cx="234" cy="199" r="6.5"></circle>
+        <circle id="Oval" stroke="#000000" stroke-width="1" fill="#FFFFFF" fill-rule="evenodd" cx="322" cy="199" r="6.5"></circle>
+        <line x1="58.5" y1="205.5" x2="58.5" y2="233.5" id="Line-2" stroke="#000000" stroke-width="1" stroke-linecap="square"></line>
+        <line x1="146.5" y1="205.5" x2="146.5" y2="233.5" id="Line-2" stroke="#979797" stroke-width="1" stroke-linecap="square"></line>
+        <line x1="146.5" y1="205.5" x2="146.5" y2="233.5" id="Line-2" stroke="#000000" stroke-width="1" stroke-linecap="square"></line>
+        <line x1="234.5" y1="206.5" x2="234.5" y2="234.5" id="Line-2" stroke="#000000" stroke-width="1" stroke-linecap="square"></line>
+        <line x1="322.5" y1="205.5" x2="322.5" y2="233.5" id="Line-2" stroke="#000000" stroke-width="1" stroke-linecap="square"></line>
+        <line x1="532.5" y1="205.5" x2="532.5" y2="233.5" id="Line-2" stroke="#000000" stroke-width="1" stroke-linecap="square"></line>
+        <text id="t-=-0" font-family="ArialMT, Arial" font-size="18" font-weight="normal" fill="#000000">
+            <tspan x="40" y="256">t = 0</tspan>
+        </text>
+        <text id="t-=-1" font-family="ArialMT, Arial" font-size="18" font-weight="normal" fill="#000000">
+            <tspan x="129" y="256">t = 1</tspan>
+        </text>
+        <text id="t-=-2" font-family="ArialMT, Arial" font-size="18" font-weight="normal" fill="#000000">
+            <tspan x="218" y="256">t = 2</tspan>
+        </text>
+        <text id="t-=-3" font-family="ArialMT, Arial" font-size="18" font-weight="normal" fill="#000000">
+            <tspan x="304" y="256">t = 3</tspan>
+        </text>
+        <text id="t-=-T" font-family="ArialMT, Arial" font-size="18" font-weight="normal" fill="#000000">
+            <tspan x="515" y="256">t = T</tspan>
+        </text>
+        <path id="Line-3" d="M58.9906109,100.990698 L58.9999563,101.990655 L59.3949453,144.25448 L59.471,152.423 L64.2684505,143.705315 L64.7505451,142.829196 L66.5027834,143.793385 L66.0206888,144.669505 L59.3831282,156.732062 L58.5260711,158.289607 L57.6400532,156.748352 L50.7782034,144.811958 L50.2798183,143.945002 L52.0137299,142.948232 L52.512115,143.815188 L57.471,152.442 L57.3950327,144.27317 L57.0000437,102.009345 L56.9906983,101.009389 L58.9906109,100.990698 Z" fill="#000000" fill-rule="nonzero"></path>
+        <path id="Line-3" d="M148.026071,99.210393 L148.883128,100.767938 L155.520689,112.830495 L156.002783,113.706615 L154.250545,114.670804 L153.76845,113.794685 L148.971,105.076 L148.894945,113.24552 L148.499956,155.509345 L148.490611,156.509302 L146.490698,156.490611 L146.500044,155.490655 L146.895033,113.22683 L146.971,105.057 L142.012115,113.684812 L141.51373,114.551768 L139.779818,113.554998 L140.278203,112.688042 L147.140053,100.751648 L148.026071,99.210393 Z" fill="#000000" fill-rule="nonzero"></path>
+        <path id="Line-3" d="M235.973929,99.210393 L236.859947,100.751648 L243.721797,112.688042 L244.220182,113.554998 L242.48627,114.551768 L241.987885,113.684812 L237.028,105.057 L237.104967,113.22683 L237.499956,155.490655 L237.509302,156.490611 L235.509389,156.509302 L235.500044,155.509345 L235.105055,113.24552 L235.028,105.076 L230.23155,113.794685 L229.749455,114.670804 L227.997217,113.706615 L228.479311,112.830495 L235.116872,100.767938 L235.973929,99.210393 Z" fill="#000000" fill-rule="nonzero"></path>
+        <path id="Line-3" d="M326.026071,99.210393 L326.883128,100.767938 L333.520689,112.830495 L334.002783,113.706615 L332.250545,114.670804 L331.76845,113.794685 L326.971,105.076 L326.894945,113.24552 L326.499956,155.509345 L326.490611,156.509302 L324.490698,156.490611 L324.500044,155.490655 L324.895033,113.22683 L324.971,105.057 L320.012115,113.684812 L319.51373,114.551768 L317.779818,113.554998 L318.278203,112.688042 L325.140053,100.751648 L326.026071,99.210393 Z" fill="#000000" fill-rule="nonzero"></path>
+        <path id="Line-3" d="M534.026071,99.210393 L534.883128,100.767938 L541.520689,112.830495 L542.002783,113.706615 L540.250545,114.670804 L539.76845,113.794685 L534.971,105.076 L534.894945,113.24552 L534.499956,155.509345 L534.490611,156.509302 L532.490698,156.490611 L532.500044,155.490655 L532.895033,113.22683 L532.971,105.057 L528.012115,113.684812 L527.51373,114.551768 L525.779818,113.554998 L526.278203,112.688042 L533.140053,100.751648 L534.026071,99.210393 Z" fill="#000000" fill-rule="nonzero"></path>
+        <text id="Time" font-family="ArialMT, Arial" font-size="24" font-weight="normal" fill="#000000">
+            <tspan x="628" y="206">Time</tspan>
+        </text>
+        <text id="Now" font-family="HelveticaNeue-Light, Helvetica Neue" font-size="20" font-weight="300" fill="#000000">
+            <tspan x="6" y="137">Now</tspan>
+        </text>
+        <text id="Future" font-family="HelveticaNeue-Light, Helvetica Neue" font-size="20" font-weight="300" fill="#000000">
+            <tspan x="309" y="30">Future</tspan>
+        </text>
+        <line x1="128.5" y1="48.0294118" x2="557.5" y2="48.0294118" id="Line-4" stroke="#000000" stroke-width="1" stroke-linecap="square"></line>
+        <text id="c0" font-family="HelveticaNeue, Helvetica Neue" font-size="20" font-weight="normal" fill="#000000">
+            <tspan x="51" y="84">c</tspan>
+            <tspan x="61.74" y="84">0</tspan>
+        </text>
+        <text id="." font-family="HelveticaNeue, Helvetica Neue" font-size="20" font-weight="normal" fill="#000000">
+            <tspan x="53" y="68">.</tspan>
+        </text>
+        <text id="cT" font-family="HelveticaNeue, Helvetica Neue" font-size="20" font-weight="normal" fill="#000000">
+            <tspan x="525" y="84">c</tspan>
+            <tspan x="535.74" y="84">T</tspan>
+        </text>
+        <text id="." font-family="HelveticaNeue, Helvetica Neue" font-size="20" font-weight="normal" fill="#000000">
+            <tspan x="527" y="68">.</tspan>
+        </text>
+        <text id="c3" font-family="HelveticaNeue, Helvetica Neue" font-size="20" font-weight="normal" fill="#000000">
+            <tspan x="316" y="84">c</tspan>
+            <tspan x="326.74" y="84">3</tspan>
+        </text>
+        <text id="." font-family="HelveticaNeue, Helvetica Neue" font-size="20" font-weight="normal" fill="#000000">
+            <tspan x="318" y="68">.</tspan>
+        </text>
+        <text id="c2" font-family="HelveticaNeue, Helvetica Neue" font-size="20" font-weight="normal" fill="#000000">
+            <tspan x="228" y="84">c</tspan>
+            <tspan x="238.74" y="84">2</tspan>
+        </text>
+        <text id="." font-family="HelveticaNeue, Helvetica Neue" font-size="20" font-weight="normal" fill="#000000">
+            <tspan x="230" y="68">.</tspan>
+        </text>
+        <text id="c1" font-family="HelveticaNeue, Helvetica Neue" font-size="20" font-weight="normal" fill="#000000">
+            <tspan x="142" y="84">c</tspan>
+            <tspan x="152.74" y="84">1</tspan>
+        </text>
+        <text id="." font-family="HelveticaNeue, Helvetica Neue" font-size="20" font-weight="normal" fill="#000000">
+            <tspan x="144" y="68">.</tspan>
+        </text>
+    </g>
+</svg>

@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="717px" height="313px" viewBox="0 0 717 313" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>bond</title>
+    <g id="bond" stroke="none" fill="none">
+        <ellipse id="Oval" stroke="#89CCE2" stroke-width="3" cx="106" cy="191" rx="45.5" ry="46.5"></ellipse>
+        <rect id="Rectangle" fill="#F2F2F2" fill-rule="evenodd" x="179" y="128" width="234" height="124"></rect>
+        <ellipse id="Oval" fill="#FFDA31" fill-rule="evenodd" cx="238" cy="191" rx="47" ry="48"></ellipse>
+        <ellipse id="Oval" fill="#FFDA31" fill-rule="evenodd" cx="352" cy="191" rx="47" ry="48"></ellipse>
+        <ellipse id="Oval" fill="#FFDA31" fill-rule="evenodd" cx="539" cy="192" rx="47" ry="48"></ellipse>
+        <line x1="6.5" y1="191.5" x2="648" y2="192" id="Line" stroke="#000000" stroke-width="2" stroke-linecap="square"></line>
+        <path d="M652.5,186 L659,198.277778 C656.512346,196.351852 654.466049,195.388889 652.861111,195.388889 C651.256173,195.388889 648.969136,196.351852 646,198.277778 L652.5,186 Z" id="Triangle" fill="#000000" fill-rule="evenodd" transform="translate(652.5, 192.1389) rotate(90) translate(-652.5, -192.1389)"></path>
+        <g id="Group-2" stroke-width="1" fill-rule="evenodd" transform="translate(106, 116)" fill="#000000">
+            <path id="Line-2" d="M0.5,-2.28972886 L1.37157554,-0.74026124 L8.12157554,11.2597388 L8.61183678,12.1313143 L6.8686857,13.1118368 L6.37842446,12.2402612 L1.5,3.567 L1.5,62.5 L-0.5,62.5 L-0.5,11.75 L-0.499,3.566 L-5.37842446,12.2402612 L-5.8686857,13.1118368 L-7.61183678,12.1313143 L-7.12157554,11.2597388 L-0.371575537,-0.74026124 L0.5,-2.28972886 Z" fill-rule="nonzero"></path>
+        </g>
+        <g id="Group-2" stroke-width="1" fill-rule="evenodd" transform="translate(229.5, 145.2778) rotate(-180) translate(-229.5, -145.2778)translate(229, 114.2778)" fill="#000000">
+            <path id="Line-2" d="M0.5,-2.28972886 L1.37157554,-0.74026124 L8.12157554,11.2597388 L8.61183678,12.1313143 L6.8686857,13.1118368 L6.37842446,12.2402612 L1.499,3.565 L1.5,62.5 L-0.5,62.5 L-0.5,3.567 L-5.37842446,12.2402612 L-5.8686857,13.1118368 L-7.61183678,12.1313143 L-7.12157554,11.2597388 L-0.371575537,-0.74026124 L0.5,-2.28972886 Z" fill-rule="nonzero"></path>
+        </g>
+        <g id="Group-2" stroke-width="1" fill-rule="evenodd" transform="translate(248.5, 146.2778) rotate(-180) translate(-248.5, -146.2778)translate(248, 115.2778)" fill="#6D7278">
+            <path id="Line-2" d="M1.5,56.5 L1.5,62.5 L-0.5,62.5 L-0.5,56.5 L1.5,56.5 Z M1.5,48.5 L1.5,54.5 L-0.5,54.5 L-0.5,48.5 L1.5,48.5 Z M1.5,40.5 L1.5,46.5 L-0.5,46.5 L-0.5,40.5 L1.5,40.5 Z M1.5,32.5 L1.5,38.5 L-0.5,38.5 L-0.5,32.5 L1.5,32.5 Z M1.5,24.5 L1.5,30.5 L-0.5,30.5 L-0.5,24.5 L1.5,24.5 Z M1.5,16.5 L1.5,22.5 L-0.5,22.5 L-0.5,16.5 L1.5,16.5 Z M1.5,8.5 L1.5,14.5 L-0.5,14.5 L-0.5,8.5 L1.5,8.5 Z M0.5,-2.28972886 L1.37157554,-0.74026124 L8.12157554,11.2597388 L8.61183678,12.1313143 L6.8686857,13.1118368 L6.37842446,12.2402612 L1.499,3.565 L1.5,6.5 L-0.5,6.5 L-0.5,3.567 L-5.37842446,12.2402612 L-5.8686857,13.1118368 L-7.61183678,12.1313143 L-7.12157554,11.2597388 L-0.371575537,-0.74026124 L0.5,-2.28972886 Z" fill-rule="nonzero"></path>
+        </g>
+        <g id="Group-2" stroke-width="1" fill-rule="evenodd" transform="translate(365.5, 147.2778) rotate(-180) translate(-365.5, -147.2778)translate(365, 116.2778)" fill="#6D7278">
+            <path id="Line-2" d="M1.5,56.5 L1.5,62.5 L-0.5,62.5 L-0.5,56.5 L1.5,56.5 Z M1.5,48.5 L1.5,54.5 L-0.5,54.5 L-0.5,48.5 L1.5,48.5 Z M1.5,40.5 L1.5,46.5 L-0.5,46.5 L-0.5,40.5 L1.5,40.5 Z M1.5,32.5 L1.5,38.5 L-0.5,38.5 L-0.5,32.5 L1.5,32.5 Z M1.5,24.5 L1.5,30.5 L-0.5,30.5 L-0.5,24.5 L1.5,24.5 Z M1.5,16.5 L1.5,22.5 L-0.5,22.5 L-0.5,16.5 L1.5,16.5 Z M1.5,8.5 L1.5,14.5 L-0.5,14.5 L-0.5,8.5 L1.5,8.5 Z M0.5,-2.28972886 L1.37157554,-0.74026124 L8.12157554,11.2597388 L8.61183678,12.1313143 L6.8686857,13.1118368 L6.37842446,12.2402612 L1.499,3.565 L1.5,6.5 L-0.5,6.5 L-0.5,3.567 L-5.37842446,12.2402612 L-5.8686857,13.1118368 L-7.61183678,12.1313143 L-7.12157554,11.2597388 L-0.371575537,-0.74026124 L0.5,-2.28972886 Z" fill-rule="nonzero"></path>
+        </g>
+        <g id="Group-2" stroke-width="1" fill-rule="evenodd" transform="translate(343.5, 146.2778) rotate(-180) translate(-343.5, -146.2778)translate(343, 115.2778)" fill="#000000">
+            <path id="Line-2" d="M0.5,-2.28972886 L1.37157554,-0.74026124 L8.12157554,11.2597388 L8.61183678,12.1313143 L6.8686857,13.1118368 L6.37842446,12.2402612 L1.499,3.565 L1.5,62.5 L-0.5,62.5 L-0.5,3.567 L-5.37842446,12.2402612 L-5.8686857,13.1118368 L-7.61183678,12.1313143 L-7.12157554,11.2597388 L-0.371575537,-0.74026124 L0.5,-2.28972886 Z" fill-rule="nonzero"></path>
+        </g>
+        <g id="Group-2" stroke-width="1" fill-rule="evenodd" transform="translate(539.5, 145.2778) rotate(-180) translate(-539.5, -145.2778)translate(539, 114.2778)" fill="#000000">
+            <path id="Line-2" d="M0.5,-2.28972886 L1.37157554,-0.74026124 L8.12157554,11.2597388 L8.61183678,12.1313143 L6.8686857,13.1118368 L6.37842446,12.2402612 L1.499,3.565 L1.5,62.5 L-0.5,62.5 L-0.5,3.567 L-5.37842446,12.2402612 L-5.8686857,13.1118368 L-7.61183678,12.1313143 L-7.12157554,11.2597388 L-0.371575537,-0.74026124 L0.5,-2.28972886 Z" fill-rule="nonzero"></path>
+        </g>
+        <circle id="Oval" stroke="#000000" stroke-width="1" fill="#FFFDFD" fill-rule="evenodd" cx="106" cy="192" r="6.5"></circle>
+        <circle id="Oval" stroke="#000000" stroke-width="1" fill="#FFFDFD" fill-rule="evenodd" cx="238" cy="192" r="6.5"></circle>
+        <circle id="Oval" stroke="#000000" stroke-width="1" fill="#FFFDFD" fill-rule="evenodd" cx="353" cy="192" r="6.5"></circle>
+        <circle id="Oval" stroke="#000000" stroke-width="1" fill="#FFFDFD" fill-rule="evenodd" cx="539" cy="192" r="6.5"></circle>
+        <g id="Group" stroke-width="1" fill-rule="evenodd" transform="translate(413, 163)" fill="#000000">
+            <circle id="Oval" cx="3" cy="3" r="3"></circle>
+            <circle id="Oval" cx="45" cy="3" r="3"></circle>
+            <circle id="Oval" cx="23" cy="3" r="3"></circle>
+        </g>
+        <text id="Time" font-family="ArialMT, Arial" font-size="21" font-weight="normal" fill="#000000">
+            <tspan x="664" y="200">Time</tspan>
+        </text>
+        <text id="VB" font-family="ArialMT, Arial" font-size="21" font-weight="normal" fill="#000000">
+            <tspan x="92" y="91">V</tspan>
+            <tspan x="106.006836" y="91">B</tspan>
+        </text>
+        <text id="C-+-VP" font-family="ArialMT, Arial" font-size="21" font-weight="normal" fill="#000000">
+            <tspan x="512" y="91">C + V</tspan>
+            <tspan x="565.10498" y="91">P</tspan>
+        </text>
+        <text id="C" font-family="ArialMT, Arial" font-size="21" font-weight="normal" fill="#000000">
+            <tspan x="221" y="95">C</tspan>
+        </text>
+        <text id="C" font-family="ArialMT, Arial" font-size="21" font-weight="normal" fill="#000000">
+            <tspan x="335" y="95">C</tspan>
+        </text>
+        <text id="Start-(current)" font-family="ArialMT, Arial" font-size="21" font-weight="normal" fill="#000000">
+            <tspan x="83.8259277" y="271">Start </tspan>
+            <tspan x="66.3276367" y="294">(current)</tspan>
+        </text>
+        <text id="Finish-(future)" font-family="ArialMT, Arial" font-size="21" font-weight="normal" fill="#000000">
+            <tspan x="511.491455" y="271">Finish </tspan>
+            <tspan x="505.656982" y="294">(future)</tspan>
+        </text>
+        <text id="semi-annual-coupon-p" font-family="ArialMT, Arial" font-size="18" font-weight="normal" fill="#000000">
+            <tspan x="184.427734" y="274">semi-annual coupon payments </tspan>
+            <tspan x="162.916504" y="294">(cashflow) and compounding events</tspan>
+        </text>
+        <text id="Future" font-family="ArialMT, Arial" font-size="21" font-weight="normal" fill="#000000">
+            <tspan x="347" y="32">Future</tspan>
+        </text>
+        <text id="t-=-0" font-family="ArialMT, Arial" font-size="18" font-weight="normal" fill="#000000">
+            <tspan x="88" y="220">t = 0</tspan>
+        </text>
+        <text id="t-=-1" font-family="ArialMT, Arial" font-size="18" font-weight="normal" fill="#000000">
+            <tspan x="222" y="220">t = 1</tspan>
+        </text>
+        <text id="t-=-2" font-family="ArialMT, Arial" font-size="18" font-weight="normal" fill="#000000">
+            <tspan x="335" y="220">t = 2</tspan>
+        </text>
+        <text id="t-=-T" font-family="ArialMT, Arial" font-size="18" font-weight="normal" fill="#000000">
+            <tspan x="521" y="218">t = T</tspan>
+        </text>
+        <line x1="162.5" y1="46.5" x2="592.5" y2="46.5" id="Line-3" stroke="#000000" stroke-width="1" stroke-linecap="square"></line>
+    </g>
+</svg>
